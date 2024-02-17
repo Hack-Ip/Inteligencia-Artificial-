@@ -1,7 +1,7 @@
 #universidad del valle - Inteligencia Artificial
 #Tema: Aprendizaje Analogico
 #importar las bibliotecas necesarias
-from sklearn.Neighbors import Nearest.Neighbors
+from Sklearn.Neighbors import Nearest.Neighbors
 import numpy as np
 
 #Datos conocidos  (entrenamiento)
